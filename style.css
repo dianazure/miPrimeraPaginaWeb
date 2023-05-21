@@ -1,0 +1,23 @@
+body{
+    background-color: #14315d;/*color de fondo*/
+    color: #f6eda3; /*Color de texto*/
+    font-family:'Poppins', sans-serif;;/*cambiar el tipo de fuente*/ 
+}
+h1,p{ /*subtitulo h1 y lo que pusimos en p*/
+    color: #f1be7a; /*Cambia color de letra*/
+}
+h3{
+    font-size: 30px;/*cmabiar tamaño de fuente*/
+}
+img{
+    width: 300px; /*tamaño de altura de la imagen*/
+    height: 200px; /*tamaño de ancho de la imagen*/
+    border-style: solid; /*bordes a las imagenes*/
+    border-width: 8px;/*ancho del borde*/
+    border-color: #a8ebe9;
+    padding: 9px;/*Espacio entre imagen y borde*/
+    margin: 20px;/*agregar espacio entre una imagen y otra*/
+}
+a{
+    color: #e9df71;/*cambia el color de fuente de los elementos que esan en a*/
+}
